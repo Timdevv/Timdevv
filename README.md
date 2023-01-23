@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🎓 I'm currently studying at EFREI PARIS, a digital engineering school. 
+- 🌱 I’m learning backend developement in my free time
+- 🔭 I'm currently working on a favorite and password management web application project. A way to increase my knowledge of VueJS and Express.
+
+- ⚡ Fun fact about me: The video game Minecraft made me start programming thanks to the programming of plugin for multiplayer server. Since then I have never let go of computer science
+
+
+
+
+
 <!--
 **Izerty/Izerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
