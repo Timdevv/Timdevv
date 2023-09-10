@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🎓 I'm currently studying at EFREI PARIS, a digital engineering school. 
-- 🌱 I’m learning backend developement in my free time
-- 🔭 I'm currently working on a data management solution for an ITC company
+- 🌱 I’m learning solidity developement in my free time
+- 🔭 I'm currently working on a frontEnd website for an IT compagny
 
 - ⚡ Fun fact about me: The video game Minecraft made me start programming thanks to the programming of plugin for multiplayer server. Since then I have never let go of computer science
 
