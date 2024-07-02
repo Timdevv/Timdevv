@@ -4,7 +4,7 @@
 - 🌱 I’m learning solidity developement in my free time
 - 🔭 I'm currently working on a Web App
 
-- ⚡ Fun fact about me: The video game Minecraft made me start programming thanks to the programming of plugin for multiplayer server. Since then I have never let go of computer science
+- ⚡ Fun fact about me: The video game Minecraft made me start programming thanks to the creation of plugin for multiplayer server. Since then I have never let go of computer science
 
 ### Contact me 📳
 
